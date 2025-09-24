@@ -1,1 +1,1 @@
-# Insert-a-node-at-a-specific-position-in-a-linked-list
+# Insert-a-node-at-a-specific-position-in-a-linked-list This program inserts a new node with the given value at a specific position in a singly linked list. It traverses the list until the target position, adjusts the next pointers, and then prints the updated list.
